@@ -1,4 +1,4 @@
-# SlotLab
+# Problem 3: Budget Traveller with Coupons
 
 Exam timetable scheduling with conflict and hall-capacity constraints. Includes a Streamlit application and a command-line solver.
 
