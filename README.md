@@ -1,4 +1,4 @@
-# Problem 3: Budget Traveller with Coupons
+# Problem 4: Exam Timetable Scheduling (Graph Colouring Challenge)
 
 Exam timetable scheduling with conflict and hall-capacity constraints. Includes a Streamlit application and a command-line solver.
 
